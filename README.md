@@ -1,1 +1,1 @@
-# Functions to build Neural Networs from scratch
+# Functions to build Neural Networks from scratch
